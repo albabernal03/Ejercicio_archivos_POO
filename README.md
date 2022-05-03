@@ -71,3 +71,6 @@ class Calificaciones:
 ***
 
 **UML:**
+
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/91721875/166509808-1e1cb73d-79ef-4775-b6dc-7bf2d230f47a.png">
+
