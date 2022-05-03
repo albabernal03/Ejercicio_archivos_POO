@@ -20,7 +20,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/Ejercicio_arch
 
 ***
 
-<h2>Resolución</h2>
+<h2>Resolución (Utilizando Pandas)</h2>
 
 **Código**
 
