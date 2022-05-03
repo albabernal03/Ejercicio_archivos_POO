@@ -64,11 +64,6 @@ class Calificaciones:
                 suspensos.append(datos['Nombre'][i])
         return aprobados, suspensos
 
-
-
-print(Calificaciones.calificaciones('calificaciones'))
-print(Calificaciones.nota_final('nota_final'))
-print(Calificaciones.aprobados_suspensos('aprobados', 'suspensos'))
 ```
 
 
